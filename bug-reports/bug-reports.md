@@ -6,6 +6,8 @@
 
 Всего заведено **25 баг-репортов** в Jira.
 
+Ссылка на Jira: https://ohiko.atlassian.net/jira/software/projects/SCRUM/boards/1?filter=&groupBy=none&atlOrigin=eyJpIjoiMWRlZWNlYTRiOWUyNGNmZmE2Y2ZmZTU4YTc3MTM1YjEiLCJwIjoiaiJ9
+
 ## 1. Общая информация
 
 | Параметр | Значение |
